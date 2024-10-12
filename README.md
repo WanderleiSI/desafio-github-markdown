@@ -11,3 +11,12 @@
     - Adicionei meu amigo da faculdade como colaborador. 
     - Analisar sugestões de colaboradores sobre o README.md   
 ---
+## Colaboração
+
+Contribuições são sempre bem-vindas! Se você deseja colaborar com este projeto, siga estas etapas:
+
+1. **Fork o repositório**: Clique no botão "Fork" no canto superior direito deste repositório para criar uma cópia do projeto em sua conta.
+
+2. **Clone o repositório**: Clone o repositório forkado para sua máquina local:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
